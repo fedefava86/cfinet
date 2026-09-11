@@ -3,6 +3,6 @@ title: "About me"
 draft: false
 ---
 
-## Ciao, sono Federico
+## Hello, i'm Federico
 
-Questo è il mio spazio personale online: un luogo dove condivido idee, progetti e cose che mi incuriosiscono.
+Welcome here, i design&&build&&break&&fix Linux operating systems hosting a Private 5G solution @HPE 
