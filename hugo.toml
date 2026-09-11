@@ -8,6 +8,7 @@ pagerSize = 10
 
 [params]
 homeSubtitle = 'A simple and beautiful blog'
+homeIntro = 'Ciao, sono Federico. Questo è il mio spazio personale online: un luogo dove condivido idee, progetti e cose che mi incuriosiscono.'
 dateform = 'Jan 2, 2006'
 dateformShort = 'Jan 2'
 dateformNum = '2006-01-02'
