@@ -1,6 +1,6 @@
 baseURL = 'https://federico.cfinet.org/'
 locale = 'en-us'
-title = 'Federico\'s notebook'
+title = "Federico's notebook"
 theme = 'hello-friend-ng'
 
 [pagination]
