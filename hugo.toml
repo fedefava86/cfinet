@@ -17,10 +17,15 @@ enableThemeToggle = true
 
 [params.logo]
 logoMark = '>'
-logoText = 'hello'
+logoText = 'fcinet'
 logoHomeLink = '/'
 
 [[menu.main]]
 identifier = 'posts'
 name = 'Posts'
 url = '/posts/'
+
+[[menu.main]]
+identifier = 'about'
+name = 'About me'
+url = '/about/'
