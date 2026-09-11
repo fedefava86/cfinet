@@ -2,3 +2,24 @@ baseURL = 'https://federico.cfinet.org/'
 locale = 'en-us'
 title = 'My New Hugo Project'
 theme = 'hello-friend-ng'
+
+[pagination]
+pagerSize = 10
+
+[params]
+homeSubtitle = 'A simple and beautiful blog'
+dateform = 'Jan 2, 2006'
+dateformShort = 'Jan 2'
+dateformNum = '2006-01-02'
+dateformNumTime = '2006-01-02 15:04'
+enableThemeToggle = true
+
+[params.logo]
+logoMark = '>'
+logoText = 'hello'
+logoHomeLink = '/'
+
+[[menu.main]]
+identifier = 'posts'
+name = 'Posts'
+url = '/posts/'
