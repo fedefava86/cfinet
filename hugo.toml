@@ -1,4 +1,4 @@
-baseURL = 'https://cfinet.org/'
+baseURL = 'https://federico.cfinet.org/'
 locale = 'en-us'
 title = 'My New Hugo Project'
 theme = 'hello-friend-ng'
