@@ -1,0 +1,4 @@
+baseURL = 'https://cfinet.org/'
+locale = 'en-us'
+title = 'My New Hugo Project'
+theme = 'hello-friend-ng'
